@@ -10,8 +10,8 @@ const spaceGrotesk = Space_Grotesk({
  })
 
 export const metadata: Metadata = {
-  title: 'Pricewise',
-  description: 'Track product prices effortlessly and save money on your online shopping.',
+  title: 'PriceSense',
+  description: 'Empower your purchasing decisions with real-time price updates because every penny counts.',
 }
 
 export default function RootLayout({
